@@ -1,0 +1,272 @@
+UID        PID  PPID  C STIME TTY          TIME CMD
+root         1     0  0 9月26 ?       00:00:03 /sbin/init splash
+root         2     0  0 9月26 ?       00:00:00 [kthreadd]
+root         4     2  0 9月26 ?       00:00:00 [kworker/0:0H]
+root         6     2  0 9月26 ?       00:00:00 [mm_percpu_wq]
+root         7     2  0 9月26 ?       00:00:00 [ksoftirqd/0]
+root         8     2  0 9月26 ?       00:00:18 [rcu_sched]
+root         9     2  0 9月26 ?       00:00:00 [rcu_bh]
+root        10     2  0 9月26 ?       00:00:00 [migration/0]
+root        11     2  0 9月26 ?       00:00:00 [watchdog/0]
+root        12     2  0 9月26 ?       00:00:00 [cpuhp/0]
+root        13     2  0 9月26 ?       00:00:00 [cpuhp/1]
+root        14     2  0 9月26 ?       00:00:00 [watchdog/1]
+root        15     2  0 9月26 ?       00:00:00 [migration/1]
+root        16     2  0 9月26 ?       00:00:00 [ksoftirqd/1]
+root        18     2  0 9月26 ?       00:00:00 [kworker/1:0H]
+root        19     2  0 9月26 ?       00:00:00 [cpuhp/2]
+root        20     2  0 9月26 ?       00:00:00 [watchdog/2]
+root        21     2  0 9月26 ?       00:00:00 [migration/2]
+root        22     2  0 9月26 ?       00:00:00 [ksoftirqd/2]
+root        24     2  0 9月26 ?       00:00:00 [kworker/2:0H]
+root        25     2  0 9月26 ?       00:00:00 [cpuhp/3]
+root        26     2  0 9月26 ?       00:00:00 [watchdog/3]
+root        27     2  0 9月26 ?       00:00:00 [migration/3]
+root        28     2  0 9月26 ?       00:00:00 [ksoftirqd/3]
+root        30     2  0 9月26 ?       00:00:00 [kworker/3:0H]
+root        31     2  0 9月26 ?       00:00:00 [cpuhp/4]
+root        32     2  0 9月26 ?       00:00:00 [watchdog/4]
+root        33     2  0 9月26 ?       00:00:00 [migration/4]
+root        34     2  0 9月26 ?       00:00:00 [ksoftirqd/4]
+root        36     2  0 9月26 ?       00:00:00 [kworker/4:0H]
+root        37     2  0 9月26 ?       00:00:00 [cpuhp/5]
+root        38     2  0 9月26 ?       00:00:00 [watchdog/5]
+root        39     2  0 9月26 ?       00:00:00 [migration/5]
+root        40     2  0 9月26 ?       00:00:00 [ksoftirqd/5]
+root        42     2  0 9月26 ?       00:00:00 [kworker/5:0H]
+root        43     2  0 9月26 ?       00:00:00 [cpuhp/6]
+root        44     2  0 9月26 ?       00:00:00 [watchdog/6]
+root        45     2  0 9月26 ?       00:00:00 [migration/6]
+root        46     2  0 9月26 ?       00:00:00 [ksoftirqd/6]
+root        48     2  0 9月26 ?       00:00:00 [kworker/6:0H]
+root        49     2  0 9月26 ?       00:00:00 [cpuhp/7]
+root        50     2  0 9月26 ?       00:00:00 [watchdog/7]
+root        51     2  0 9月26 ?       00:00:00 [migration/7]
+root        52     2  0 9月26 ?       00:00:00 [ksoftirqd/7]
+root        54     2  0 9月26 ?       00:00:00 [kworker/7:0H]
+root        55     2  0 9月26 ?       00:00:00 [kdevtmpfs]
+root        56     2  0 9月26 ?       00:00:00 [netns]
+root        57     2  0 9月26 ?       00:00:00 [rcu_tasks_kthre]
+root        58     2  0 9月26 ?       00:00:00 [kauditd]
+root        63     2  0 9月26 ?       00:00:00 [khungtaskd]
+root        64     2  0 9月26 ?       00:00:00 [oom_reaper]
+root        65     2  0 9月26 ?       00:00:00 [writeback]
+root        66     2  0 9月26 ?       00:00:00 [kcompactd0]
+root        67     2  0 9月26 ?       00:00:00 [ksmd]
+root        68     2  0 9月26 ?       00:00:00 [khugepaged]
+root        69     2  0 9月26 ?       00:00:00 [crypto]
+root        70     2  0 9月26 ?       00:00:00 [kintegrityd]
+root        71     2  0 9月26 ?       00:00:00 [kblockd]
+root        76     2  0 9月26 ?       00:00:00 [ata_sff]
+root        77     2  0 9月26 ?       00:00:00 [md]
+root        78     2  0 9月26 ?       00:00:00 [edac-poller]
+root        79     2  0 9月26 ?       00:00:00 [devfreq_wq]
+root        80     2  0 9月26 ?       00:00:00 [watchdogd]
+root        83     2  0 9月26 ?       00:00:01 [kswapd0]
+root        84     2  0 9月26 ?       00:00:00 [ecryptfs-kthrea]
+root       126     2  0 9月26 ?       00:00:00 [kthrotld]
+root       127     2  0 9月26 ?       00:00:00 [acpi_thermal_pm]
+root       131     2  0 9月26 ?       00:00:00 [ipv6_addrconf]
+root       140     2  0 9月26 ?       00:00:00 [kstrp]
+root       161     2  0 9月26 ?       00:00:00 [charger_manager]
+root       219     2  0 9月26 ?       00:00:00 [scsi_eh_0]
+root       220     2  0 9月26 ?       00:00:00 [scsi_tmf_0]
+root       221     2  0 9月26 ?       00:00:00 [scsi_eh_1]
+root       222     2  0 9月26 ?       00:00:00 [scsi_tmf_1]
+root       223     2  0 9月26 ?       00:00:00 [scsi_eh_2]
+root       224     2  0 9月26 ?       00:00:00 [scsi_tmf_2]
+root       225     2  0 9月26 ?       00:00:00 [scsi_eh_3]
+root       226     2  0 9月26 ?       00:00:00 [scsi_tmf_3]
+root       228     2  0 9月26 ?       00:00:00 [nvkm-disp]
+root       230     2  0 9月26 ?       00:00:09 [i915/signal:0]
+root       231     2  0 9月26 ?       00:00:00 [i915/signal:1]
+root       232     2  0 9月26 ?       00:00:00 [i915/signal:2]
+root       233     2  0 9月26 ?       00:00:00 [i915/signal:4]
+root       236     2  0 9月26 ?       00:00:00 [kworker/2:1H]
+root       243     2  0 9月26 ?       00:00:01 [kworker/4:1H]
+root       244     2  0 9月26 ?       00:00:00 [ttm_swap]
+root       267     2  0 9月26 ?       00:00:00 [jbd2/sda11-8]
+root       268     2  0 9月26 ?       00:00:00 [ext4-rsv-conver]
+root       284     2  0 9月26 ?       00:00:00 [jbd2/sda12-8]
+root       285     2  0 9月26 ?       00:00:00 [ext4-rsv-conver]
+root       310     2  0 9月26 ?       00:00:00 [kworker/5:1H]
+root       316     1  0 9月26 ?       00:00:02 /lib/systemd/systemd-journald
+root       329     2  0 9月26 ?       00:00:00 [kworker/3:1H]
+root       348     1  0 9月26 ?       00:00:00 /lib/systemd/systemd-udevd
+root       361     2  0 9月26 ?       00:00:00 [kworker/1:1H]
+root       364     2  0 9月26 ?       00:00:00 [loop0]
+root       367     2  0 9月26 ?       00:00:00 [loop1]
+root       371     2  0 9月26 ?       00:00:00 [loop2]
+root       377     2  0 9月26 ?       00:00:00 [loop4]
+root       378     2  0 9月26 ?       00:00:00 [kworker/0:1H]
+root       379     2  0 9月26 ?       00:00:00 [kworker/7:1H]
+root       412     2  0 9月26 ?       00:00:00 [kworker/6:1H]
+root       466     2  0 9月26 ?       00:00:00 [cfg80211]
+root       486     2  0 9月26 ?       00:00:02 [irq/131-iwlwifi]
+root       703     2  0 9月26 ?       00:00:00 [kmemstick]
+root       704     2  0 9月26 ?       00:00:02 [rtsx_usb_ms_1]
+root       875     2  0 9月26 ?       00:00:01 [jbd2/sda10-8]
+root       876     2  0 9月26 ?       00:00:00 [ext4-rsv-conver]
+systemd+   903     1  0 9月26 ?       00:00:00 /lib/systemd/systemd-timesyncd
+root      1064     1  0 9月26 ?       00:00:00 /usr/sbin/cron -f
+syslog    1065     1  0 9月26 ?       00:00:00 /usr/sbin/rsyslogd -n
+root      1067     1  0 9月26 ?       00:00:00 /usr/lib/accountsservice/accounts-daemon
+root      1069     1  0 9月26 ?       00:00:00 /usr/lib/bluetooth/bluetoothd
+root      1079     1  0 9月26 ?       00:00:02 /usr/sbin/acpid
+root      1084     1  0 9月26 ?       00:00:00 /lib/systemd/systemd-logind
+root      1092     1  0 9月26 ?       00:00:02 /usr/sbin/thermald --no-daemon --dbus-enable
+avahi     1097     1  0 9月26 ?       00:00:02 avahi-daemon: running [waxnkw-Lenovo-Rescuer-15ISK.local]
+message+  1101     1  0 9月26 ?       00:00:17 /usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation
+avahi     1117  1097  0 9月26 ?       00:00:00 avahi-daemon: chroot helper
+root      1132     1  0 9月26 ?       00:00:17 /usr/sbin/NetworkManager --no-daemon
+root      1223     1  0 9月26 ?       00:00:02 /usr/sbin/irqbalance --pid=/var/run/irqbalance.pid
+root      1236     1  0 9月26 ?       00:00:00 /usr/sbin/lightdm
+root      1241     1  0 9月26 ?       00:00:00 /usr/lib/policykit-1/polkitd --no-debug
+root      1247     1  0 9月26 ?       00:00:00 /usr/sbin/sshd -D
+root      1260  1236  0 9月26 tty7    00:13:50 /usr/lib/xorg/Xorg -core :0 -seat seat0 -auth /var/run/lightdm/root/:0 -nolisten tcp vt7 -novtswitch
+mysql     1274     1  0 9月26 ?       00:00:13 /usr/sbin/mysqld
+root      1294     1  0 9月26 ?       00:00:02 /sbin/wpa_supplicant -u -s -O /run/wpa_supplicant
+nobody    1424  1132  0 9月26 ?       00:00:01 /usr/sbin/dnsmasq --no-resolv --keep-in-foreground --no-hosts --bind-interfaces --pid-file=/var/run/NetworkManager/dnsmasq.pid --listen-address=127.0.1.1 --cache-size=0 --conf-file=/dev/null --proxy-dnssec --enable-dbus=org.freedesktop.NetworkManager.dnsmasq --conf-dir=/etc/NetworkManager/dnsmasq.d
+root      1529  1236  0 9月26 ?       00:00:00 lightdm --session-child 12 19
+rtkit     1552     1  0 9月26 ?       00:00:00 /usr/lib/rtkit/rtkit-daemon
+root      1563     1  0 9月26 ?       00:00:00 /usr/lib/upower/upowerd
+colord    1628     1  0 9月26 ?       00:00:00 /usr/lib/colord/colord
+root      1648     2  0 9月26 ?       00:00:00 [krfcommd]
+whoopsie  1703     1  0 9月26 ?       00:00:00 /usr/bin/whoopsie -f
+root      1725     1  0 9月26 tty1    00:00:00 /sbin/agetty --noclear tty1 linux
+root      1729     2  0 9月26 ?       00:00:00 [iprt-VBoxWQueue]
+root      1733     2  0 9月26 ?       00:00:00 [iprt-VBoxTscThr]
+waxnkw    1770     1  0 9月26 ?       00:00:00 /lib/systemd/systemd --user
+waxnkw    1771  1770  0 9月26 ?       00:00:00 (sd-pam)
+waxnkw    1812     1  0 9月26 ?       00:00:00 /usr/bin/gnome-keyring-daemon --daemonize --login
+waxnkw    1814  1529  0 9月26 ?       00:00:00 /sbin/upstart --user
+waxnkw    2033  1814  0 9月26 ?       00:00:00 upstart-udev-bridge --daemon --user
+waxnkw    2041  1814  0 9月26 ?       00:00:30 dbus-daemon --fork --session --address=unix:abstract=/tmp/dbus-Qa82yDDXhq
+waxnkw    2053  1814  0 9月26 ?       00:00:00 /usr/lib/x86_64-linux-gnu/hud/window-stack-bridge
+waxnkw    2089  1814  0 9月26 ?       00:00:44 /usr/bin/fcitx
+waxnkw    2095  1814  0 9月26 ?       00:00:08 upstart-dbus-bridge --daemon --session --user --bus-name session
+waxnkw    2097  1814  0 9月26 ?       00:00:03 upstart-dbus-bridge --daemon --system --user --bus-name system
+waxnkw    2101  1814  0 9月26 ?       00:00:00 upstart-file-bridge --daemon --user
+waxnkw    2121  1814  0 9月26 ?       00:00:15 /usr/lib/x86_64-linux-gnu/bamf/bamfdaemon
+waxnkw    2128  1814  0 9月26 ?       00:00:00 /usr/lib/at-spi2-core/at-spi-bus-launcher
+waxnkw    2133  2128  0 9月26 ?       00:00:01 /usr/bin/dbus-daemon --config-file=/etc/at-spi2/accessibility.conf --nofork --print-address 3
+waxnkw    2136  1814  0 9月26 ?       00:00:08 /usr/lib/at-spi2-core/at-spi2-registryd --use-gnome-session
+waxnkw    2138  1814  0 9月26 ?       00:00:00 /usr/lib/gvfs/gvfsd
+waxnkw    2145  1814  0 9月26 ?       00:00:00 /usr/lib/gvfs/gvfsd-fuse /run/user/1000/gvfs -f -o big_writes
+waxnkw    2153  1814  0 9月26 ?       00:00:00 gpg-agent --homedir /home/waxnkw/.gnupg --use-standard-socket --daemon
+waxnkw    2157  1814  0 9月26 ?       00:00:10 /usr/local/lib/anaconda3/bin/dbus-daemon --syslog --fork --print-pid 4 --print-address 6 --config-file /usr/share/fcitx/dbus/daemon.conf
+waxnkw    2161  1814  0 9月26 ?       00:00:00 /usr/bin/fcitx-dbus-watcher unix:abstract=/tmp/dbus-nPWWbncs4f,guid=9a19a0f9825dbcda69b864cb5baba0bf 2157
+waxnkw    2171  1814  0 9月26 ?       00:00:22 /usr/lib/x86_64-linux-gnu/hud/hud-service
+waxnkw    2173  1814  0 9月26 ?       00:00:01 /usr/lib/unity-settings-daemon/unity-settings-daemon
+waxnkw    2189  2173  0 9月26 ?       00:00:01 syndaemon -i 1.0 -t -K -R
+waxnkw    2202  1814  0 9月26 ?       00:00:03 /usr/lib/x86_64-linux-gnu/notify-osd
+waxnkw    2209  1814  0 9月26 ?       00:00:00 /usr/lib/gnome-session/gnome-session-binary --session=ubuntu
+waxnkw    2218  1814  0 9月26 ?       00:01:03 /usr/lib/x86_64-linux-gnu/unity/unity-panel-service
+waxnkw    2244  1814  0 9月26 ?       00:00:00 /usr/lib/x86_64-linux-gnu/indicator-messages/indicator-messages-service
+waxnkw    2245  1814  0 9月26 ?       00:00:00 /usr/lib/x86_64-linux-gnu/indicator-bluetooth/indicator-bluetooth-service
+waxnkw    2246  1814  0 9月26 ?       00:00:00 /usr/lib/x86_64-linux-gnu/indicator-power/indicator-power-service
+waxnkw    2251  1814  0 9月26 ?       00:00:00 /usr/lib/x86_64-linux-gnu/indicator-datetime/indicator-datetime-service
+waxnkw    2257  1814  0 9月26 ?       00:00:00 /usr/lib/x86_64-linux-gnu/indicator-keyboard/indicator-keyboard-service --use-gtk
+waxnkw    2258  1814  0 9月26 ?       00:00:00 /usr/lib/x86_64-linux-gnu/indicator-sound/indicator-sound-service
+waxnkw    2260  1814  0 9月26 ?       00:00:00 /usr/lib/x86_64-linux-gnu/indicator-printers/indicator-printers-service
+waxnkw    2262  1814  0 9月26 ?       00:00:00 /usr/lib/x86_64-linux-gnu/indicator-session/indicator-session-service
+waxnkw    2291  1814  0 9月26 ?       00:00:01 /usr/bin/pulseaudio --start --log-target=syslog
+waxnkw    2296  1814  0 9月26 ?       00:00:00 /usr/lib/evolution/evolution-source-registry
+waxnkw    2300  1814  0 9月26 ?       00:00:12 /usr/lib/x86_64-linux-gnu/indicator-application/indicator-application-service
+waxnkw    2322  1814  0 9月26 ?       00:00:00 /usr/lib/dconf/dconf-service
+waxnkw    2347  2209  0 9月26 ?       00:00:05 /usr/bin/gnome-software --gapplication-service
+waxnkw    2365  2209  0 9月26 ?       00:00:37 nm-applet
+waxnkw    2366  2209  0 9月26 ?       00:00:00 /usr/lib/policykit-1-gnome/polkit-gnome-authentication-agent-1
+waxnkw    2385  1814  0 9月26 ?       00:15:41 compiz
+waxnkw    2390  1814  0 9月26 ?       00:00:00 /usr/lib/evolution/evolution-calendar-factory
+waxnkw    2392  2209  0 9月26 ?       00:01:16 nautilus -n
+waxnkw    2395  1814  0 9月26 ?       00:00:00 /usr/lib/x86_64-linux-gnu/gconf/gconfd-2
+waxnkw    2401  2209  0 9月26 ?       00:00:00 /usr/lib/unity-settings-daemon/unity-fallback-mount-helper
+waxnkw    2423  2089  0 9月26 ?       00:00:00 [sh] <defunct>
+waxnkw    2426  2089  0 9月26 ?       00:00:00 [sh] <defunct>
+waxnkw    2441  1814  0 9月26 ?       00:00:00 /usr/lib/gvfs/gvfs-udisks2-volume-monitor
+root      2444     1  0 9月26 ?       00:00:01 /usr/lib/udisks2/udisksd --no-debug
+waxnkw    2460  1814  0 9月26 ?       00:00:00 /usr/lib/gvfs/gvfs-goa-volume-monitor
+waxnkw    2465  1814  0 9月26 ?       00:00:00 /usr/lib/gvfs/gvfs-afc-volume-monitor
+waxnkw    2478  1814  0 9月26 ?       00:00:00 /usr/lib/gvfs/gvfs-gphoto2-volume-monitor
+waxnkw    2484  1814  0 9月26 ?       00:00:00 /usr/lib/gvfs/gvfs-mtp-volume-monitor
+waxnkw    2494  1814  0 9月26 ?       00:01:04 sogou-qimpanel
+waxnkw    2534  1814  0 9月26 ?       00:00:00 /usr/lib/gvfs/gvfsd-trash --spawner :1.9 /org/gtk/gvfs/exec_spaw/0
+waxnkw    2555  1814  0 9月26 ?       00:00:00 /usr/lib/gvfs/gvfsd-metadata
+waxnkw    2568  2390  0 9月26 ?       00:00:00 /usr/lib/evolution/evolution-calendar-factory-subprocess --factory local --bus-name org.gnome.evolution.dataserver.Subprocess.Backend.Calendarx2390x2 --own-path /org/gnome/evolution/dataserver/Subprocess/Backend/Calendar/2390/2
+waxnkw    2577  2390  0 9月26 ?       00:00:00 /usr/lib/evolution/evolution-calendar-factory-subprocess --factory contacts --bus-name org.gnome.evolution.dataserver.Subprocess.Backend.Calendarx2390x3 --own-path /org/gnome/evolution/dataserver/Subprocess/Backend/Calendar/2390/3
+waxnkw    2588  1814  0 9月26 ?       00:00:00 /usr/lib/evolution/evolution-addressbook-factory
+waxnkw    2604  2588  0 9月26 ?       00:00:00 /usr/lib/evolution/evolution-addressbook-factory-subprocess --factory local --bus-name org.gnome.evolution.dataserver.Subprocess.Backend.AddressBookx2588x2 --own-path /org/gnome/evolution/dataserver/Subprocess/Backend/AddressBook/2588/2
+waxnkw    2642  1814  0 9月26 ?       00:00:00 /bin/sh -c /usr/lib/x86_64-linux-gnu/zeitgeist/zeitgeist-maybe-vacuum; /usr/bin/zeitgeist-daemon
+waxnkw    2646  2642  0 9月26 ?       00:00:01 /usr/bin/zeitgeist-daemon
+waxnkw    2654  1814  0 9月26 ?       00:00:01 /usr/lib/x86_64-linux-gnu/zeitgeist-fts
+waxnkw    2656  1814  0 9月26 ?       00:00:01 zeitgeist-datahub
+waxnkw    2722  2209  0 9月26 ?       00:00:00 update-notifier
+waxnkw    2898  2209  0 9月26 ?       00:00:00 /usr/lib/x86_64-linux-gnu/deja-dup/deja-dup-monitor
+waxnkw    4003  1814  0 9月26 ?       00:00:01 /usr/lib/x86_64-linux-gnu/unity-scope-home/unity-scope-home
+waxnkw    4014  1814  0 9月26 ?       00:00:01 /usr/bin/unity-scope-loader applications/applications.scope applications/scopes.scope commands.scope
+waxnkw    4015  1814  0 9月26 ?       00:00:00 /usr/lib/x86_64-linux-gnu/unity-lens-files/unity-files-daemon
+waxnkw    4057  1814  0 9月26 ?       00:00:16 ss-qt5
+root      6508     1  0 10月14 ?      00:00:00 /usr/sbin/cupsd -l
+root      6509     1  0 10月14 ?      00:00:00 /usr/sbin/cups-browsed
+root      7542     2  0 10月01 ?      00:00:00 [kworker/u17:1]
+root     13952     2  0 10月11 ?      00:00:00 [loop6]
+root     13970     1  0 10月11 ?      00:00:26 /usr/lib/snapd/snapd
+waxnkw   14179  1814  0 10月11 ?      00:00:00 /usr/lib/gvfs/gvfsd-network --spawner :1.9 /org/gtk/gvfs/exec_spaw/2
+waxnkw   14208  1814  0 10月11 ?      00:00:00 /usr/lib/gvfs/gvfsd-dnssd --spawner :1.9 /org/gtk/gvfs/exec_spaw/5
+root     14989     2  0 10月14 ?      00:00:00 [loop3]
+waxnkw   15227  1814  0 10月14 ?      00:00:00 /usr/lib/gvfs/gvfsd-http --spawner :1.9 /org/gtk/gvfs/exec_spaw/6
+root     17539     2  0 10月14 ?      00:00:04 [kworker/u16:62]
+waxnkw   22269  1814  0 10月14 ?      00:00:35 /usr/bin/perl /usr/bin/shutter
+root     22666     2  0 10月14 ?      00:00:00 [dio/sda12]
+root     23293     2  0 10月14 ?      00:00:00 [kworker/6:1]
+root     23498     2  0 10月14 ?      00:00:00 [kworker/3:2]
+root     23564     2  0 10月14 ?      00:00:00 [kworker/4:1]
+root     23709     2  0 10月14 ?      00:00:00 [kworker/2:1]
+root     23782     2  0 10月14 ?      00:00:00 [kworker/5:1]
+root     23843     2  0 19:52 ?        00:00:01 [kworker/u16:37]
+root     23852     2  0 19:52 ?        00:00:01 [kworker/u16:46]
+root     23868     2  0 19:52 ?        00:00:00 [irq/130-mei_me]
+root     23870     2  0 19:52 ?        00:00:00 [kworker/u17:2]
+waxnkw   24064  1814  9 19:52 ?        00:02:33 /usr/lib/firefox/firefox
+waxnkw   24126 24064  0 19:52 ?        00:00:08 /usr/lib/firefox/firefox -contentproc -childID 1 -isForBrowser -prefsLen 9454 -schedulerPrefs 0001,2 -parentBuildID 20180913170346 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appdir /usr/lib/firefox/browser 24064 true tab
+root     24297  1132  0 19:53 ?        00:00:00 /sbin/dhclient -d -q -sf /usr/lib/NetworkManager/nm-dhcp-helper -pf /var/run/dhclient-enp6s0.pid -lf /var/lib/NetworkManager/dhclient-a8d84d25-b5d1-39a5-9285-6cb52ae75e28-enp6s0.lease -cf /var/lib/NetworkManager/dhclient-enp6s0.conf enp6s0
+root     24306  1132  0 19:53 ?        00:00:00 /sbin/dhclient -d -q -6 -N -sf /usr/lib/NetworkManager/nm-dhcp-helper -pf /var/run/dhclient6-enp6s0.pid -lf /var/lib/NetworkManager/dhclient6-a8d84d25-b5d1-39a5-9285-6cb52ae75e28-enp6s0.lease -cf /var/lib/NetworkManager/dhclient6-enp6s0.conf enp6s0
+waxnkw   24556 24064  0 19:53 ?        00:00:14 /usr/lib/firefox/firefox -contentproc -childID 3 -isForBrowser -prefsLen 13782 -schedulerPrefs 0001,2 -parentBuildID 20180913170346 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appdir /usr/lib/firefox/browser 24064 true tab
+waxnkw   25303  1814  0 19:55 ?        00:00:00 /usr/lib/gvfs/gvfsd-recent --spawner :1.9 /org/gtk/gvfs/exec_spaw/7
+root     26443  1814  0 19:58 ?        00:00:00 dbus-launch --autolaunch=65bd4a7f833043ff8d019b3dec1a7d7f --binary-syntax --close-stderr
+root     26444  1814  0 19:58 ?        00:00:00 /usr/bin/dbus-daemon --fork --print-pid 5 --print-address 7 --session
+root     26447  1814  0 19:58 ?        00:00:00 /usr/lib/dconf/dconf-service
+root     26578     2  0 20:01 ?        00:00:00 [kworker/7:2]
+root     26775     2  0 20:02 ?        00:00:00 [kworker/5:0]
+root     26783     2  0 20:02 ?        00:00:00 [kworker/1:0]
+root     27192     2  0 20:05 ?        00:00:00 [kworker/0:0]
+waxnkw   27204  1814  0 20:05 ?        00:00:04 evince /home/waxnkw/下载/车道巡线小车.pdf
+waxnkw   27211  1814  0 20:05 ?        00:00:00 /usr/lib/evince/evinced
+root     27282     2  0 20:06 ?        00:00:00 [kworker/7:0]
+root     27347     2  0 20:09 ?        00:00:00 [kworker/4:0]
+waxnkw   27351 24064  0 20:09 ?        00:00:03 /usr/lib/firefox/firefox -contentproc -childID 6 -isForBrowser -prefsLen 13785 -schedulerPrefs 0001,2 -parentBuildID 20180913170346 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appdir /usr/lib/firefox/browser 24064 true tab
+waxnkw   27382 24064  1 20:09 ?        00:00:08 /usr/lib/firefox/firefox -contentproc -childID 7 -isForBrowser -prefsLen 13785 -schedulerPrefs 0001,2 -parentBuildID 20180913170346 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appdir /usr/lib/firefox/browser 24064 true tab
+waxnkw   27421  1814  0 20:09 ?        00:00:00 /usr/lib/libreoffice/program/oosplash --writer file:///tmp/mozilla_waxnkw0/%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.rtf
+waxnkw   27438 27421  0 20:09 ?        00:00:06 /usr/lib/libreoffice/program/soffice.bin --writer file:///tmp/mozilla_waxnkw0/%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.rtf --splash-pipe=5
+root     27470     2  0 20:11 ?        00:00:00 [kworker/u16:0]
+waxnkw   27490  1814  0 20:11 ?        00:00:04 /usr/lib/gnome-terminal/gnome-terminal-server
+waxnkw   27495 27490  0 20:11 pts/2    00:00:00 bash
+root     27505     2  0 20:12 ?        00:00:00 [kworker/7:1]
+root     27537     2  0 20:12 ?        00:00:00 [kworker/6:2]
+root     27538     2  0 20:12 ?        00:00:00 [kworker/1:1]
+root     27552     2  0 20:13 ?        00:00:00 [kworker/5:2]
+root     27568     2  0 20:13 ?        00:00:00 [kworker/2:2]
+root     27573     2  0 20:13 ?        00:00:00 [kworker/3:0]
+root     27603     2  0 20:14 ?        00:00:00 [kworker/0:3]
+root     27680     2  0 20:15 ?        00:00:00 [kworker/7:3]
+root     27803     2  0 20:18 ?        00:00:00 [kworker/6:0]
+root     27814     2  0 20:18 ?        00:00:00 [kworker/1:2]
+root     27865     2  0 20:18 ?        00:00:00 [kworker/5:3]
+waxnkw   27891  1814 99 20:18 ?        00:02:27 /home/waxnkw/NjuProject/EmbeddedSystemNJU2018-Demo/examples/OpenCV/test
+root     27903     2  0 20:19 ?        00:00:00 [kworker/3:1]
+waxnkw   27906 27490  0 20:19 pts/11   00:00:00 bash
+root     27916     2  0 20:19 ?        00:00:00 [kworker/4:2]
+root     27917     2  0 20:19 ?        00:00:00 [kworker/2:0]
+root     27956     2  0 20:19 ?        00:00:00 [kworker/0:1]
+waxnkw   27972 27906  0 20:20 pts/11   00:00:00 ps -ef
